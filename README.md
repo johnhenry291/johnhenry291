@@ -1,4 +1,4 @@
 ## Olá, sou João Henrique
 
-- Estudo Ciências Autariais na UFPE
+- Estudo Ciências Atuariais na UFPE
 - Me interesso pela área de análise de dados
